@@ -30,6 +30,8 @@ It offers essential metrics like hashrate, session runtime, and mining output, a
 🔑 Password: hexaforge  
 📎 Note: The file is password-protected to ensure safe and uninterrupted transfer via Google Drive.
 
+💬 Join our community: https://t.me/HexaForgeTools
+
  
 https://www.youtube.com/watch?v=pyhyhexVL3M
 

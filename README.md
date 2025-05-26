@@ -1,4 +1,4 @@
-Make Crypto With Your CPU 💸 | Free Mining Tool by HexaForge (No GPU Required)
+![Screenshot](https://i.imgur.com/XwewiFT.jpeg)
 
 **HexaForge CryptoMiner** is a lightweight mining utility that allows you to generate crypto directly using your system’s CPU. Designed for low-resource machines, this tool requires no GPU and no setup — just run and start earning.
 
@@ -29,12 +29,8 @@ It offers essential metrics like hashrate, session runtime, and mining output, a
 🔐 File format: .rar  
 🔑 Password: hexaforge  
 📎 Note: The file is password-protected to ensure safe and uninterrupted transfer via Google Drive.
-
-💬 Join our community: https://t.me/HexaForgeTools
-
  
 https://www.youtube.com/watch?v=pyhyhexVL3M
-
 ---
 
 ## ⚠️ Legal Disclaimer
